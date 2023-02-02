@@ -1,0 +1,16 @@
+{
+	"timestamp":-1,
+	"swipe_result":-1,
+	"swipe_reason":0,
+	"swipe_performer":0,
+	"gender_account":-1,
+	"gender_profile":-1,
+	"gender_profile_apparent":0,
+	"location_access":null,
+	"location_choice":"",
+	"account":null,
+	"agent":"",
+	"freemode":false,
+	"matched":false,
+	"notes":""
+}
